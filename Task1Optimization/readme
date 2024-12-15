@@ -1,0 +1,1 @@
+Improve the performance of a linear model without altering its architecture or the number of epochs by optimizing other parameters, such as activation functions, batch size, regularization techniques, and learning strategies.
